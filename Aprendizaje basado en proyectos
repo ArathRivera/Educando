@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendizaje basado en proyectos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Aprendizaje basado en proyectos</h1>
+    </header>
+    <section>
+        <h2>Introducción</h2>
+        <p>El aprendizaje basado en proyectos es una metodología educativa que pone énfasis en la realización de proyectos prácticos como medio principal de aprendizaje.</p>
+        <p>En este enfoque, los estudiantes trabajan en proyectos significativos que les permiten investigar, colaborar, resolver problemas y aplicar lo que han aprendido en un contexto real.</p>
+    </section>
+    <section>
+        <h2>Beneficios</h2>
+        <ul>
+            <li>Promueve la motivación intrínseca de los estudiantes.</li>
+            <li>Fomenta el desarrollo de habilidades de pensamiento crítico y resolución de problemas.</li>
+            <li>Permite la integración de conocimientos de diversas áreas.</li>
+            <li>Prepara a los estudiantes para enfrentar desafíos del mundo real.</li>
+            <li>Promueve la colaboración y el trabajo en equipo.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Ejemplos</h2>
+        <p>Algunos ejemplos de proyectos de aprendizaje basado en proyectos incluyen:</p>
+        <ul>
+            <li>Diseñar y construir un modelo de energía renovable.</li>
+            <li>Crear una campaña de concienciación sobre un problema social.</li>
+            <li>Organizar un evento cultural en la comunidad.</li>
+            <li>Desarrollar un plan de negocios para una empresa ficticia.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Aprendizaje basado en proyectos - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
